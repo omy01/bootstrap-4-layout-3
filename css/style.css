@@ -1,0 +1,21 @@
+.header, .body, .footer{
+	background-color: #9BC3FA;
+	margin: 10px 0;
+}
+.box{
+	min-height: 100px;
+	background-color: #CCE0FB;
+	margin: 20px 0 10px;
+}
+.hero{
+	margin: 10px 0;
+	background-color: #9CC3F9;
+}
+.bg1{
+	min-height: 100px;
+	background-color: #69A6DE;
+}
+.bg2{
+	min-height: 100px;
+	background-color: #69A6DE;
+}
